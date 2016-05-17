@@ -1,0 +1,79 @@
+.body-container {
+	background-color: lightgray;
+	height: 100vh;
+	padding:15px 40px;
+	font-family: 'Ubuntu';
+}
+
+.top-container{
+	min-height: 25vh;
+	background-color: #fff;
+	padding: 25px;
+	line-height: 1.5;
+	position: relative;
+}
+
+.botton-container{
+	margin-top: 50px;
+}
+
+.red-b{
+	background-color: red;
+	color: white;
+	width: 90px;
+	height: 40px;
+	font-size: 1rem;
+	cursor: pointer;
+}
+
+.blue-b{
+	background-color: blue;
+	color: white;
+	width: 90px;
+	height: 40px;
+	margin-left: 6px;
+	font-size: 1rem;
+	cursor: pointer;
+}
+
+.mid-container{
+	padding: 25px;
+	background-color: white;
+	margin-top: 25px;
+	display: flex;
+	justify-content: center;
+}
+
+.words1{
+	background-color: white
+}
+
+.mid-image{
+	max-height: 40vh;
+	min-height: 5vh;
+	max-width: 100%;
+	background-color: #333;
+}
+
+.words{
+	
+	line-height: 1.5;
+	padding: 25px;
+}
+
+.footer{
+	width: 100%;
+	height: 6vh;
+	position: fixed;
+	bottom: 0;
+	background-color: #333;
+}
+
+.link{
+	padding-top: 15px;
+	height: 15px;
+	color: white;
+	width: 70px;
+	float: right;
+	font-family: 'ubuntu';
+}
